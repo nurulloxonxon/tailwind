@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+}
+.div_aka{
+    background-image: url("./mashina.webp");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 100%;
+    height: 700px;
+    margin-bottom: 160px;
+}
+.div_image{
+    background-image: url("./xc90-recharge-desktop-4x3.webp");
+    width: 100%;
+background-repeat: no-repeat;
+    height: 600px;
+    display: block;
+width: 600px;
+ background-position: center;
+ background-size: cover;
+}
+.div_image2{
+    width: 100%;
+    background-repeat: no-repeat;
+        height: 600px;
+        display: block;
+    width: 600px;
+     background-position: center;
+     background-size: cover;
+    background-image: url("./2\ rasm.webp");
+}
+.div_bek{
+    display: grid;
+}
